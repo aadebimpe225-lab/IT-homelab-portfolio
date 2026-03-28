@@ -1,8 +1,8 @@
 # IT Home Lab Portfolio
 
-**Name:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [Your Email]
+**Name:** [Ademola Adebimpe]  
+**LinkedIn:** [https://www.linkedin.com/in/ademola-adebimpe-302a043ba/]  
+**Email:** [aadebimpe225@gmail.com]
 
 ---
 
@@ -48,9 +48,13 @@ Each lab was designed to answer one question: *"What would I actually do if this
 ## Certifications (In Progress / Completed)
 
 - [ ] CompTIA A+
-- [ ] CompTIA Network+
-- [ ] CompTIA Security+
 - [ ] Microsoft 365 Fundamentals (MS-900)
+- [ ] AWS Certified Cloud Practitioner
+- [ ] Google IT Support Professional Certificate
+- [ ] ISC2 Certified in Cybersecurity
+- [ ] ISC2 Certified in Cybersecurity
+- [ ] Oracle OCI Foundations Certified
+- [ ] Oracle OCI AI Foundations Certified
 
 > Update this section with your actual certifications.
 
